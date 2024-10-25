@@ -4,6 +4,7 @@ let check = null;
 let key;
 console.log(typeof check)
 console.log(typeof key)
+console.log("Hello World!");
 
 //primitive datatypes
 
