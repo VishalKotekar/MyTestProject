@@ -1,6 +1,6 @@
 const accountId = 12345678
 let accountName = "Vishal"
-var city = "ichalkaranji"
+var city = "Pune"
 let accountPass
 
 // accountId = 4444
